@@ -4,7 +4,7 @@ This is the LED Cube 8x8x8 Project with
 
 +3D encloser file for 3D printing (SLDPRT and STL files)
 
-+Circuit schematic
++Circuit schematic: Main electronic components are: Esp32 Micro-controller, 74HC595 shift registers, 1 ULN2803 Current shink IC, 0.1uF Ceramic capacitors, 470uF Electrolytic capacitor, thermal circuit breaker, 512 blue LEDs
 
 
 

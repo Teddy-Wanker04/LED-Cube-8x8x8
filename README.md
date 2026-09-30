@@ -4,11 +4,11 @@ A custom ESP32-based LED cube project with animated light patterns, schematic de
 
 ## Final Product
 
-<img src="LED Cube 8x8x8.jpg" width="500">
+<img src="image/LED Cube 8x8x8.jpg" width="500">
 
 ## Circuit Schematic
 
-<img src="LED cube circuit schematic.png" width="700">
+<img src="image/LED cube circuit schematic.png" width="700">
 
 
 This is the LED Cube 8x8x8 Project with
